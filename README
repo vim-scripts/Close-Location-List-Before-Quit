@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4189
+
+Based on http://www.vim.org/scripts/script.php?script_id=1072 , this closes the location list before vim is quit. This is ordinarily not particularly useful but serves as a workaround for the vim issue described here: https://github.com/scrooloose/syntastic/issues/286 , which appears to affect Macvim + Syntastic combination only.  Try this if you're using MacVim + Syntastic and MacVim freezes on-close.
